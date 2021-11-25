@@ -1,2 +1,2 @@
-# EIC-echocardiogram-images-classification-
+# EIC-echocardiogram-images-classification
 echocardiogram images classification using DeepLearning
